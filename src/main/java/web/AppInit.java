@@ -1,6 +1,7 @@
-package web.config;
+package web;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+import web.config.WebConfig;
 
 public class AppInit extends AbstractAnnotationConfigDispatcherServletInitializer {
 
